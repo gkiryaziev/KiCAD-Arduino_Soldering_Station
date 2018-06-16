@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name gk-footprints)(type KiCad)(uri D:/Robo/Software/KiCad/gk-kicad-library/gk-footprints.pretty)(options "")(descr ""))
+  (lib (name gk-pcb-logo)(type KiCad)(uri D:/Robo/Software/KiCad/gk-kicad-library/gk-pcb-logo.pretty)(options "")(descr ""))
+)

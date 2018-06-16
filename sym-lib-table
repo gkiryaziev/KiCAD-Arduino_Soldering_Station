@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name gk-arduino)(type Legacy)(uri D:/Robo/Software/KiCad/gk-kicad-library/gk-symbols/gk-arduino.lib)(options "")(descr ""))
+)
